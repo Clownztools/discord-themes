@@ -146,3 +146,200 @@ body,button,input,select,textarea,*{font-family:"Iosevka Charon",monospace!impor
 #app-mount .searchResult-3p0iIz{color:#f5af19!important}
 #app-mount .highlight-3A3bO8{color:#ff8c00!important;background:rgba(255,140,0,0.15)!important;border-radius:2px!important;padding:0 2px!important}
 #app-mount *{--hsl-background-shading:#000000!important;--hsl-card-shading:#000000!important;--hsl-popout-shading:#000000!important;--hsl-modal-shading:#000000!important;--hsl-input-shading:#000000!important;--hsl-input-border-shading:#000000!important}
+#app-mount .userProfileOuter__9c3be .defaultColor__4bd52,
+#app-mount .userProfileOuter_f9a4c9 .defaultColor__4bd52,
+#app-mount .userProfileOuter-2tUq4m .defaultColor__4bd52,
+#app-mount .outer_c0bea0 .defaultColor__4bd52,
+#app-mount .body_b32ca4 .defaultColor__4bd52,
+#app-mount .overlay_b32ca4 .defaultColor__4bd52,
+#app-mount .section_bf424d .header_bf424d h3,
+#app-mount .section_bf424d .header_bf424d h2,
+#app-mount [class*="header_"] h3[class*="defaultColor"],
+#app-mount [class*="header_"] h2[class*="defaultColor"]{color:#e8a040!important}
+#app-mount .connectedAccounts__9c3be,
+#app-mount .connectedAccounts_f9a4c9,
+#app-mount .connection__9bfb9,
+#app-mount .accountName__9bfb9,
+#app-mount .accountNameText__9bfb9,
+#app-mount .connectionInfo__9bfb9,
+#app-mount .platformIconContainer__9bfb9,
+#app-mount .metadata__9bfb9{color:var(--text)!important}
+#app-mount .accountNameText__9bfb9{color:#e8d5b8!important}
+#app-mount .effect__9c3be,
+#app-mount .profileEffect__9c3be,
+#app-mount .effect_f9a4c9,
+#app-mount .profileEffect_f9a4c9,
+#app-mount .avatarDecorationGif__9c3be,
+#app-mount .avatarDecorationGif_f9a4c9,
+#app-mount [class*="effect"]:is([class*="profile"]),
+#app-mount [class*="profileEffect"],
+#app-mount [class*="ProfileEffect"],
+#app-mount [class*="effectOverlay"],
+#app-mount [class*="effectContainer"],
+#app-mount .avatarDecoration__44b0c,
+#app-mount .avatarDecorationContainer__44b0c,
+#app-mount .avatarDecoration__75742,
+#app-mount [class*="avatarDecoration"]{display:none!important}
+#app-mount .userProfileOuter__9c3be,
+#app-mount .userProfileModalOuter__9c3be,
+#app-mount .root__49fc1.userProfileOuter__9c3be,
+#app-mount .root_f9a4c9.userProfileOuter_f9a4c9,
+#app-mount .profile__9c3be,
+#app-mount .profile_f9a4c9,
+#app-mount .inner_c0bea0,
+#app-mount .inner__9c3be,
+#app-mount .profileContentInner__9c3be,
+#app-mount .profileBody__9c3be,
+#app-mount .profileBody_f9a4c9,
+#app-mount .profileHeader__9c3be,
+#app-mount .profileHeader_f9a4c9,
+#app-mount .container__37bfc,
+#app-mount .tabBarPanel__37bfc,
+#app-mount .tabBarPanel_f9a4c9,
+#app-mount .profileContentColumns__9c3be,
+#app-mount .profileContentColumns_f9a4c9,
+#app-mount .userProfileInner__9c3be,
+#app-mount .userProfileInner_f9a4c9,
+#app-mount .userProfileInnerThemedNonPremium__9c3be,
+#app-mount .userProfileInnerThemedPremiumWithoutBanner__9c3be,
+#app-mount .userProfileInnerThemedWithBanner__9c3be,
+#app-mount .overlayBackground__9c3be,
+#app-mount .empty_e766f2,
+#app-mount .section_bf424d,
+#app-mount .profileButtons__9c3be,
+#app-mount .displayNameRow__26b1f,
+#app-mount .usernameAndPronounsRow__26b1f,
+#app-mount .userProfileInnerThemedNonPremium_f9a4c9,
+#app-mount .userProfileInnerThemedPremiumWithoutBanner_f9a4c9,
+#app-mount .userProfileInnerThemedWithBanner_f9a4c9,
+#app-mount .userProfileModalOverlayBackground_c69a7b,
+#app-mount .userProfileModalOverlayBackground__9c3be,
+#app-mount .profileCardToastContainer__9c3be,
+#app-mount .userProfileOuter-2tUq4m,
+#app-mount .userProfileInnerThemedNonPremium-1gT-zY,
+#app-mount .userProfileInnerThemedPremiumWithoutBanner-1yMS1H,
+#app-mount .userProfileInnerThemedWithBanner_c69a7b{background:#0a0a0a!important}
+#app-mount .tabListScroller__37bfc{background:#000000!important;border-bottom:1px solid rgba(255,255,255,.06)!important}
+#app-mount .tabBarItem__37bfc.item_aa8da2{background:transparent!important;border:none!important;border-radius:0!important;box-shadow:none!important;font-family:"Iosevka Charon",monospace!important;font-weight:500!important;font-size:14px!important;padding:8px 16px!important}
+#app-mount .tabBarItem__37bfc.item_aa8da2:not(.selected_aa8da2){color:#e8a040!important}
+#app-mount .tabBarItem__37bfc.item_aa8da2:not(.selected_aa8da2):hover{color:#ffb347!important;background:transparent!important}
+#app-mount .tabBarItem__37bfc.item_aa8da2.selected_aa8da2{color:#fff!important;background:transparent!important;border-bottom:3px solid #e05a00!important}
+#app-mount .tabPanelScroller__37bfc{background:#000000!important}
+#app-mount .row__89036{background:#000000!important;border-bottom:1px solid rgba(255,255,255,.04)!important;padding:8px!important}
+#app-mount .row__89036:hover{background:rgba(255,255,255,.03)!important}
+#app-mount .displayName__89036{color:#e8a040!important;font-family:"Iosevka Charon",monospace!important;font-size:14px!important}
+#app-mount .info_f4bc97.tag__89036{color:#e8a040!important}
+#app-mount .section_bf424d,
+#app-mount .section_bf424d *{color:#e8d5b8!important}
+#app-mount .section_bf424d .header_bf424d h3,
+#app-mount .section_bf424d .header_bf424d [class*="defaultColor"]{color:#e8a040!important}
+#app-mount .section_bf424d .header_bf424d h3{font-family:"Iosevka Charon",monospace!important;font-size:12px!important;font-weight:600!important;text-transform:uppercase!important}
+#app-mount .card__39ec2 .details__39ec2 h4,
+#app-mount .card__39ec2 .details__39ec2 [class*="defaultColor"]{color:#ffb347!important;font-family:"Iosevka Charon",monospace!important}
+#app-mount .card__39ec2 .badgeContainer__635ed *{color:#d4956a!important}
+#app-mount .card__39ec2 .badgeContainer__635ed svg *{fill:#d4956a!important}
+#app-mount .card__39ec2{background:#0a0a0a!important;border:1px solid rgba(255,255,255,.06)!important;border-radius:8px!important;padding:12px!important;margin-bottom:8px!important}
+#app-mount .card__39ec2:hover{background:rgba(255,255,255,.02)!important;border-color:rgba(255,255,255,.1)!important}
+#app-mount .imageContainer_ef9ae7 img{border-radius:8px!important;box-shadow:0 0 0 1px rgba(255,255,255,.06)!important}
+#app-mount .section_bf424d [style],
+#app-mount .section_bf424d *[style],
+#app-mount .card__39ec2 [style],
+#app-mount .card__39ec2 *[style],
+#app-mount .tabBarPanel__37bfc [style],
+#app-mount .tabBarPanel__37bfc *[style]{color:#e8d5b8!important}
+#app-mount .section_bf424d .header_bf424d [style],
+#app-mount .section_bf424d .header_bf424d *[style]{color:#e8a040!important}
+#app-mount .badgeContainer__635ed [style],
+#app-mount .badgeContainer__635ed *[style]{color:#d4956a!important}
+#app-mount .container__37bfc,
+#app-mount .tabListScroller__37bfc,
+#app-mount .tabBarPanel__37bfc,
+#app-mount .tabPanelScroller__37bfc,
+#app-mount .section_bf424d,
+#app-mount .card__39ec2,
+#app-mount .row__89036,
+#app-mount .row__0a95c,
+#app-mount .overlay_c0bea0,
+#app-mount .body__39ec2,
+#app-mount .content__39ec2,
+#app-mount .details__39ec2,
+#app-mount .details__89036,
+#app-mount .badges__39ec2{border:none!important;border-radius:0!important}
+#app-mount .card__39ec2,#app-mount .cardPrimary__73069,#app-mount .card_b846e5,#app-mount .embedFull__623de{position:relative!important;overflow:hidden!important}
+#app-mount .card__39ec2::before,#app-mount .cardPrimary__73069::before,#app-mount .card_b846e5::before,#app-mount .embedFull__623de::before{content:""!important;position:absolute!important;top:-1px!important;left:-1px!important;right:-1px!important;bottom:-1px!important;background:linear-gradient(45deg,#e05a00,#f5af19,#f12711,#e05a00,#f5af19)!important;background-size:400% 400%!important;z-index:-1!important;border-radius:inherit!important;opacity:0!important;transition:opacity .3s ease!important;animation:gradientBorder 3s ease infinite!important}
+#app-mount .card__39ec2:hover::before,#app-mount .cardPrimary__73069:hover::before,#app-mount .card_b846e5:hover::before,#app-mount .embedFull__623de:hover::before{opacity:1!important}
+@keyframes gradientBorder{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%}}
+#app-mount .username-1A8OIy:hover,#app-mount .username-3JLKgS:hover,#app-mount .memberUsername-3gCak2:hover{animation:rainbowText .8s linear infinite!important}
+@keyframes rainbowText{0%{color:#f00}14%{color:#ff0}28%{color:#0f0}42%{color:#0ff}57%{color:#00f}71%{color:#f0f}85%{color:#f00}}
+#app-mount .channelName-3KisGw:hover,#app-mount .name__2ea32:hover{display:inline-block!important;animation:wobble .5s ease!important}
+@keyframes wobble{0%{transform:translateX(0)}25%{transform:translateX(-3px) rotate(-1deg)}50%{transform:translateX(3px) rotate(1deg)}75%{transform:translateX(-2px)}100%{transform:translateX(0)}}
+#app-mount .button__201d5.lookFilled__201d5.colorBrand__201d5{animation:buttonGlow 2s ease-in-out infinite!important}
+@keyframes buttonGlow{0%,100%{filter:brightness(1) drop-shadow(0 0 2px rgba(224,90,0,.15))}50%{filter:brightness(1.08) drop-shadow(0 0 5px rgba(224,90,0,.3))}}
+#app-mount .panels__5e434 .avatar-2e8lTP{animation:float 3s ease-in-out infinite!important}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+#app-mount .numberBadge__463b7{animation:badgePulse 2s ease-in-out infinite!important}
+@keyframes badgePulse{0%,100%{transform:scale(1)}50%{transform:scale(1.1)}}
+#app-mount ::-webkit-scrollbar-thumb{animation:scrollPulse 3s ease-in-out infinite!important}
+@keyframes scrollPulse{0%,100%{background-color:#e05a00!important;box-shadow:0 0 3px rgba(224,90,0,.2)}50%{background-color:#f06d10!important;box-shadow:0 0 6px rgba(224,90,0,.35)}}
+#app-mount .status-1fhblQ{animation:allPulse 2s ease-in-out infinite!important}
+@keyframes allPulse{0%,100%{filter:brightness(1)}50%{filter:brightness(1.3)}}
+#app-mount .message__5126c{animation:messageSlide .3s ease!important}
+@keyframes messageSlide{0%{opacity:0;transform:translateY(10px)}100%{opacity:1;transform:translateY(0)}}
+#app-mount .modeSelected__2ea32 .link__2ea32{box-shadow:inset 3px 0 0 #e05a00,0 0 10px rgba(224,90,0,.1)!important}
+#app-mount .emojiButton__74017:hover img,#app-mount .emojiItem_aa320b:hover img{animation:bounce .4s ease!important}
+@keyframes bounce{0%{transform:scale(1)}30%{transform:scale(1.3)}50%{transform:scale(.9)}70%{transform:scale(1.1)}100%{transform:scale(1)}}
+#app-mount .side_aa8da2 .item_aa8da2.selected_aa8da2,#app-mount .topPill_aa8da2 .item_aa8da2.selected_aa8da2{animation:rainbowBg 3s linear infinite!important;background-size:300% 300%!important}
+@keyframes rainbowBg{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%}}
+#app-mount [class*="spinner"] svg circle,#app-mount [class*="spinner"] svg path,.spinner__69dca *,.spinner_c0c6b1 *{stroke:#e05a00!important;fill:#e05a00!important}
+#app-mount [class*="loading"]:not([class*="spinner"]){animation:loadPulse 1.2s ease-in-out infinite!important}
+@keyframes loadPulse{0%,100%{opacity:.5}50%{opacity:1}}
+#app-mount .message__5126c[class*="error"],#app-mount [class*="errorMessage"]{animation:shake .5s ease!important}
+@keyframes shake{0%,100%{transform:translateX(0)}20%,60%{transform:translateX(-4px)}40%,80%{transform:translateX(4px)}}
+#app-mount .childWrapper__6e9f8:not(:hover){animation:breath 4s ease-in-out infinite!important}
+@keyframes breath{0%,100%{filter:brightness(1)}50%{filter:brightness(1.1)}}
+#app-mount [class*="typing"]{animation:typingWiggle 1s ease-in-out infinite!important}
+@keyframes typingWiggle{0%,100%{transform:translateY(0)}50%{transform:translateY(-1px)}}
+#app-mount .newMessagesBar__0f481{animation:flashBar 2s ease-in-out infinite!important}
+@keyframes flashBar{0%,100%{opacity:1}50%{opacity:.85}}
+#app-mount .reactionMe__23977{animation:popIn .3s ease!important}
+@keyframes popIn{0%{transform:scale(0)}50%{transform:scale(1.15)}100%{transform:scale(1)}}
+#app-mount .mentioned__5126c{animation:mentionGlow 3s ease-in-out infinite!important}
+@keyframes mentionGlow{0%,100%{box-shadow:inset 0 0 0 rgba(224,90,0,0)}50%{box-shadow:inset 0 0 8px rgba(224,90,0,.05)}}
+#app-mount .container__2637a [class*="voice"] .name__2ea32{animation:voicePulse 2s ease-in-out infinite!important}
+@keyframes voicePulse{0%,100%{color:#e8a040!important}50%{color:#43b581!important}}
+#app-mount .childWrapper__6e9f8:hover{animation:wobbleBig .6s ease!important}
+@keyframes wobbleBig{0%{transform:translateX(0) rotate(0)}25%{transform:translateX(-2px) rotate(-3deg)}50%{transform:translateX(2px) rotate(3deg)}75%{transform:translateX(-1px) rotate(-1deg)}100%{transform:translateX(0) rotate(0)}}
+#app-mount .app_a3002d,#app-mount .app__160d8{animation:bgShift 15s ease-in-out infinite!important}
+@keyframes bgShift{0%,100%{background:#000!important}50%{background:#030201!important}}
+#app-mount [class*="dots"]{animation:dotBounce 1.2s ease-in-out infinite!important}
+@keyframes dotBounce{0%,60%,100%{transform:translateY(0)}30%{transform:translateY(-4px)}}
+#app-mount .avatarSpeaking__44b0c,#app-mount [class*="borderSpeaking"],#app-mount [class*="speaking"][class*="border"]{animation:speakRing .6s ease-in-out infinite!important}
+@keyframes speakRing{0%,100%{filter:drop-shadow(0 0 2px rgba(67,181,129,.4))}50%{filter:drop-shadow(0 0 5px rgba(67,181,129,.6))}}
+#app-mount [class*="activity"]:has([class*="typing"]),#app-mount [class*="activity"][class*="typing"]{animation:typeWave 1.5s ease-in-out infinite!important}
+@keyframes typeWave{0%,100%{color:#d4956a!important;opacity:.7}50%{color:#43b581!important;opacity:1}}
+#app-mount [class*="voiceState"]:has([class*="speaking"]),#app-mount [class*="voice-state"]:has([class*="speaking"]){animation:voiceActive 2s ease-in-out infinite!important}
+@keyframes voiceActive{0%,100%{color:#d4956a!important}50%{color:#43b581!important}}
+#app-mount .avatarSpeaking__44b0c::after{content:""!important;position:absolute!important;width:100%!important;height:100%!important;border-radius:50%!important;animation:soundWave 1s ease-in-out infinite!important;pointer-events:none!important}
+@keyframes soundWave{0%{box-shadow:0 0 0 0 rgba(67,181,129,.4)}50%{box-shadow:0 0 0 5px rgba(67,181,129,0)}100%{box-shadow:0 0 0 0 rgba(67,181,129,0)}}
+#app-mount [class*="typing"]{animation:typeBounce 1s ease-in-out infinite!important}
+@keyframes typeBounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-1px)}}
+#app-mount .link__2ea32:active{animation:ripple .4s ease!important}
+@keyframes ripple{0%{box-shadow:0 0 0 0 rgba(67,181,129,.3)}100%{box-shadow:0 0 0 10px rgba(67,181,129,0)}}
+#app-mount [class*="voicePanel"],#app-mount [class*="voiceBar"]{animation:voiceBarGlow 3s ease-in-out infinite!important}
+@keyframes voiceBarGlow{0%,100%{background:#000!important}50%{background:#080c08!important}}
+#app-mount [class*="icon"][class*="mute"],
+#app-mount [class*="mute"][class*="icon"],
+#app-mount [class*="iconMuted"],
+#app-mount svg[class*="muted"]{fill:#f12711!important;color:#f12711!important}
+#app-mount [class*="icon"][class*="deaf"],
+#app-mount [class*="deaf"][class*="icon"],
+#app-mount [class*="iconDeafened"],
+#app-mount svg[class*="deafened"]{fill:#e05a00!important;color:#e05a00!important}
+#app-mount [class*="guildBadge"][class*="mute"],
+#app-mount [class*="guildBadge"][class*="deaf"],
+#app-mount [class*="badge"][class*="mute"],
+#app-mount [class*="badge"][class*="deaf"]{filter:drop-shadow(0 0 3px rgba(224,90,0,.4))!important}
+#app-mount [class*="channel"] [class*="mute"],
+#app-mount [class*="channel"] [class*="deaf"],
+#app-mount [class*="icon"][class*="muted"] svg,
+#app-mount [class*="icon"][class*="deafened"] svg{fill:#f12711!important;color:#f12711!important}
