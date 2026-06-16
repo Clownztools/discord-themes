@@ -366,7 +366,6 @@ body,button,input,select,textarea,*{font-family:"Iosevka Charon",monospace!impor
 #app-mount [class*="channel"] [class*="deaf"],
 #app-mount [class*="icon"][class*="muted"] svg,
 #app-mount [class*="icon"][class*="deafened"] svg{fill:#f12711!important;color:#f12711!important}
-/* Quest tiles snippet */
 div:has(> article[id^="quest-tile-"]) {
     &:has(> article[id^="quest-tile-"]):has([aria-valuenow="100"]) {
         display: none;
@@ -710,7 +709,6 @@ div:has(> article[id^="quest-tile-"]) {
   margin-bottom: 0;
   width: unset;
 }
-/* --Improved User Area-- */
 ._37e49614b9f110a9-container ._0263c8321829b3e8-hovered, ._0263c8321829b3e8-hoverRoll._0263c8321829b3e8-forceHover:not(._0263c8321829b3e8-disabled) ._0263c8321829b3e8-default{
   opacity: 1!important;
   transform: none;
