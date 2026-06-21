@@ -21,7 +21,11 @@
 .markup__75297 code{background:#111}.markup__75297 code.inline{border:none;background:#111;padding:2px 6px}
 .repliedMessageClickableSpine_c19a55{border-color:#e05a00}
 .mentioned__5126c{--background-mentioned:rgba(224,90,0,.12);background:var(--background-mentioned)}.mentioned__5126c:before{background-color:#e05a00}
-.embedFull__623de{background:#000;border-left:3px solid #e05a00}
+.embedFull__623de{background:#000;border-left:3px solid #e05a00;overflow:hidden!important}
+.embedFull__623de .grid__623de{grid-template-columns:minmax(0,1fr)!important;overflow:hidden!important}
+.embedFull__623de .hasThumbnail__623de{grid-template-columns:minmax(0,1fr) auto!important}
+.embedFull__623de .grid__623de>div,.embedFull__623de .embedDescription__623de,.embedFull__623de .embedFieldValue__623de,.embedFull__623de .embedFieldName__623de,.embedFull__623de .embedTitle__623de,.embedFull__623de .embedFooterText__623de{min-width:0!important;max-width:100%!important;overflow:hidden!important}
+.embedFull__623de .embedDescription__623de,.embedFull__623de .embedFieldValue__623de,.embedFull__623de .embedFooterText__623de{word-break:break-all!important;overflow-wrap:break-word!important}
 .file__0ccae{background:#000;border:1px solid rgba(255,255,255,.06)}.wrapper_d5f3cd{background:#000;border:1px solid rgba(255,255,255,.06)}
 .divider__908e2{--divider-color:#e05a00}
 .content__908e2::before,.content__908e2::after{background:rgba(255,255,255,.08)}
@@ -293,8 +297,8 @@ body,button,input,select,textarea,*{font-family:"Iosevka Charon",monospace!impor
 #app-mount .details__89036,
 #app-mount .badges__39ec2{border:none!important;border-radius:0!important}
 #app-mount .card__39ec2,#app-mount .cardPrimary__73069,#app-mount .card_b846e5,#app-mount .embedFull__623de{position:relative!important;overflow:hidden!important}
-#app-mount .card__39ec2::before,#app-mount .cardPrimary__73069::before,#app-mount .card_b846e5::before,#app-mount .embedFull__623de::before{content:""!important;position:absolute!important;top:-1px!important;left:-1px!important;right:-1px!important;bottom:-1px!important;background:linear-gradient(45deg,#e05a00,#f5af19,#f12711,#e05a00,#f5af19)!important;background-size:400% 400%!important;z-index:-1!important;border-radius:inherit!important;opacity:0!important;transition:opacity .3s ease!important;animation:gradientBorder 3s ease infinite!important}
-#app-mount .card__39ec2:hover::before,#app-mount .cardPrimary__73069:hover::before,#app-mount .card_b846e5:hover::before,#app-mount .embedFull__623de:hover::before{opacity:1!important}
+#app-mount .card__39ec2::before,#app-mount .cardPrimary__73069::before,#app-mount .card_b846e5::before{content:""!important;position:absolute!important;top:-1px!important;left:-1px!important;right:-1px!important;bottom:-1px!important;background:linear-gradient(45deg,#e05a00,#f5af19,#f12711,#e05a00,#f5af19)!important;background-size:400% 400%!important;z-index:-1!important;border-radius:inherit!important;opacity:0!important;transition:opacity .3s ease!important;animation:gradientBorder 3s ease infinite!important}
+#app-mount .card__39ec2:hover::before,#app-mount .cardPrimary__73069:hover::before,#app-mount .card_b846e5:hover::before{opacity:1!important}
 @keyframes gradientBorder{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%}}
 #app-mount .username-1A8OIy:hover,#app-mount .username-3JLKgS:hover,#app-mount .memberUsername-3gCak2:hover{animation:rainbowText .8s linear infinite!important}
 @keyframes rainbowText{0%{color:#f00}14%{color:#ff0}28%{color:#0f0}42%{color:#0ff}57%{color:#00f}71%{color:#f0f}85%{color:#f00}}
